@@ -5,3 +5,8 @@ AAS_Template
 
 ## 使用方法
 请改写 templeate_mac.tex 文件完成论文。
+
+## 安装字体win
+simsun
+
+##win下也可以编译
